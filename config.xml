@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Widget xmins ="http://www.w3.org/ns/widgets"
+   xmins:gap="html://phonegap.com/ns/1.0"
+   id  ="com.phonegap.example1"
+   version ="1.0.0">
+   
+   <name> app1 Actualizada DATOSALUMNOS</name>
+   
+   <description>
+     Aplicaciones que muestra los Datos del alumno
+	 </description>
+	 
+	 <author href="https://build.phonegap.com"  email="luisa.quintero.cbtis16@gmail.com">
+	   Datos del autor
+	   </author>
+	   
+	   <!--Personaliza la aplicacion y plataforma -->
+	   <prefernce name="orientation"   value="default"/>
+	   <!--<prefence name="orientation"    value="portait"/>
+	   <preference name="orientation"    value="landscape"/> -->
+	   <preference name="target-derive"  value="universal"/>
+	   <preference name ="fullscreen"   value="true"/>
+	   <preference name ="android-installLocation" value="auto"/>
+	   
+	   
+	   
+	   <preference name ="
+	 
+	 
